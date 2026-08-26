@@ -5,3 +5,15 @@ I am practicing Git commands and building my GitHub profile.
 This change was created on the feature-readme branch.
 ## Feature README Practice
 This branch is being used to practice Git branching and pull requests.
+## Git Workflow
+1. Create a branch
+2. Make changes
+3. Stage changes with git add
+4. Commit changes
+5. Push the branch to GitHub
+6. Create a Pull Request
+7. Merge the Pull Request
+## Quickdraw Practice
+This change is linked to Issue #3.
+## Branching Practice
+This section is for practicing Git branches and pull requests.
