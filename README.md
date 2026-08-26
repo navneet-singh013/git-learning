@@ -13,3 +13,5 @@ This change was created on the feature-readme branch.
 7. Merge the Pull Request
 ## Quickdraw Practice
 This change is linked to Issue #3.
+## Branching Practice
+This section is for practicing Git branches and pull requests.
