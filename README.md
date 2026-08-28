@@ -19,3 +19,5 @@ This change is linked to Issue #3.
 This section is for practicing Git branches and pull requests.
 ## Pracice #5
 This section was added while practicing Git branches.
+## Practice 6
+Practicing Git diff and log commands.
