@@ -17,3 +17,5 @@ This branch is being used to practice Git branching and pull requests.
 This change is linked to Issue #3.
 ## Branching Practice
 This section is for practicing Git branches and pull requests.
+## Pracice #5
+This section was added while practicing Git branches.
